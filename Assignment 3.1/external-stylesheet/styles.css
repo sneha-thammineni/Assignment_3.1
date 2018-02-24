@@ -1,0 +1,13 @@
+
+
+ .homepage-1 h1 {
+    font-size: 30px;
+    color: blue;
+    padding-top: 10px;
+    background-color: red; 
+    height: 80px
+}
+
+.container-fluid{
+	padding: 0px;
+}
